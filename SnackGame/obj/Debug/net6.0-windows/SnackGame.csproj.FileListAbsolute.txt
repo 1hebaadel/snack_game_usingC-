@@ -1,0 +1,17 @@
+E:\Snack Game\Snack Game\bin\Debug\net6.0-windows\Snack Game.exe
+E:\Snack Game\Snack Game\bin\Debug\net6.0-windows\Snack Game.deps.json
+E:\Snack Game\Snack Game\bin\Debug\net6.0-windows\Snack Game.runtimeconfig.json
+E:\Snack Game\Snack Game\bin\Debug\net6.0-windows\Snack Game.dll
+E:\Snack Game\Snack Game\bin\Debug\net6.0-windows\Snack Game.pdb
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.csproj.AssemblyReference.cache
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack_Game.Form1.resources
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.csproj.GenerateResource.cache
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.AssemblyInfoInputs.cache
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.AssemblyInfo.cs
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.csproj.CoreCompileInputs.cache
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.dll
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\refint\Snack Game.dll
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.pdb
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\Snack Game.genruntimeconfig.cache
+E:\Snack Game\Snack Game\obj\Debug\net6.0-windows\ref\Snack Game.dll
